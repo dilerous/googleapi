@@ -17,7 +17,23 @@
           "Backup and Disaster Recovery": "CommVault, Zerto, VMware SRM",
           "Systems Administration": "Active Directory, DNS, DHCP, Microsoft Server, SolarWinds, Exchange",
           "Infastructure": "Cisco UCS, HP C7000"
-        }
+        },
+
+        "Employment History": {
+          "Nordstrom":{
+              "Title": "Storage and Virtualization Engineer",
+              "Data_started": "August 2016- Current"
+      },
+          "City of Kent":{
+            "Title": "Storage and Virtualization Engineer",
+            "Data_started": "July 2001- August 2016"
+      }
+      },
+
+      "Whitepapers":{
+          "Unidesk": "http://cdn2.hubspot.net/hub/339507/file-446402579-pdf/Assets/Solution_Briefs/Nimble_Integration_Guide.pdf",
+          "Webinar": "http://Unidesk.com/customers/City-kent-wa"
+      }
       }
     ]
 }
