@@ -1,0 +1,23 @@
+{ "Resume" : [
+    {
+      "Personal": "Resume",
+      "full_name": "Bradley Roy Soper",
+      "email": "brad.soper@gmail.com",
+      "phone_number": "253.332.1854",
+      "address": {
+          "street": "804 6th AVE SW",
+          "city": "Puyallup",
+          "state": "WA",
+          "zip": "98371"
+        },
+
+      "Core_Strengths": {
+          "Storage": "EMC vMax 40k, NetApp CDOT and 7-mode, Pure, XtremeIO, Nimble, FC MDS switches",
+          "Virtualization": "VMware 6, Hyper-V, VMware SRM, Nutanix, Horizon View",
+          "Backup and Disaster Recovery": "CommVault, Zerto, VMware SRM",
+          "Systems Administration": "Active Directory, DNS, DHCP, Microsoft Server, SolarWinds, Exchange",
+          "Infastructure": "Cisco UCS, HP C7000"
+        }
+      }
+    ]
+}
